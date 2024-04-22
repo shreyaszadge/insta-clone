@@ -1,5 +1,6 @@
 import { HiDotsVertical } from "react-icons/hi";
 import { LikeSection } from "./LikeSection";
+import CommentSection from "./CommentSection";
 
 export default function Post({ post }) {
   return (
@@ -18,7 +19,7 @@ export default function Post({ post }) {
         {post.caption}
 
     </p>
-      
+<CommentSection id={post.id}/>      
     </div>
   );
 }
