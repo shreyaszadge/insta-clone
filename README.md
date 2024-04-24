@@ -11,8 +11,7 @@ This project aims to replicate the core functionality and design of the Instagra
 - User authentication and authorization
 - Posting photos with captions
 - Liking and commenting on posts
-- Following and unfollowing other users
-- Explore page to discover new content
+  
 - Responsive design for seamless usage across different devices
 
 ## Screenshots
